@@ -5,5 +5,5 @@ Currently, only has creeper, oak planks, anvil base, beacon, bricks, coal ore, c
 Splash texts: "Completely redone!"
 
 FAQ: 
-Q: Can you add x? \n
+Q: Can you add x? <br>
 A: When I have the time.
